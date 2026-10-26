@@ -1,3 +1,5 @@
+Archiving repository, all the changes are included in the [repository](https://github.com/digitalservicebund/a2j-rechtsantragstelle-strapi)
+
 # Template for open source projects
 
 You can use this template when open sourcing your project! < replace this line with a concise summary of your project.
